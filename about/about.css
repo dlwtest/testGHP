@@ -1,0 +1,9 @@
+.text-box {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+ 
+  margin: 0 100px;
+  color: white;
+  font-size: 18px;
+}
